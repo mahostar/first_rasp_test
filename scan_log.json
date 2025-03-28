@@ -1,0 +1,40 @@
+{
+  "scans": [
+    {
+      "timestamp": "2025-03-07 18:17:43.501102",
+      "image_path": "for_scan.jpg",
+      "faces_detected": 1,
+      "results": [
+        {
+          "is_match": true,
+          "similarity": 0.7273080348968506,
+          "matched_name": "face_1"
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-03-07 18:18:52.048736",
+      "image_path": "for_scan.jpg",
+      "faces_detected": 1,
+      "results": [
+        {
+          "is_match": true,
+          "similarity": 0.7273080348968506,
+          "matched_name": "face_1"
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-03-07 18:20:20.139778",
+      "image_path": "for_scan.jpg",
+      "faces_detected": 1,
+      "results": [
+        {
+          "is_match": true,
+          "similarity": 0.7273080348968506,
+          "matched_name": "face_1"
+        }
+      ]
+    }
+  ]
+}
