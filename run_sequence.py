@@ -44,6 +44,7 @@ def run_script(script_name):
 def main():
     # Define the sequence of scripts
     scripts = [
+        "create_pair_key.py",
         "image_grabber.py",
         "embedding_generator.py",
         "face_scanner.py"
